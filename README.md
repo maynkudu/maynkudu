@@ -1,7 +1,3 @@
-### About:
-i code <br/>
-your get-along uncaring & unprofessional developer
-
 ![Preview](./assets/great-shit.png)
 
 ### Stats:
